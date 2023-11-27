@@ -31,6 +31,7 @@ def eval_classifiers(args):
     logistic = args.classifier_type == "logistic"
     results = defaultdict(list)
     for layer in layers:
+        print(layer)
         classifier, labelset, labeldict = pickle.load(
             open(os.path.join(classifier_dir, f"{args.classifier_type}_layer-{layer}"), "rb"))
         print("Classifier labeldict", labeldict)

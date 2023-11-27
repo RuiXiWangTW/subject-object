@@ -7,6 +7,8 @@ import os
 import random
 import sys
 import torch
+import torch.nn as nn
+import torch.optim as optim
 from tqdm import tqdm
 from transformers import BertModel
 

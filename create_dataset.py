@@ -13,8 +13,7 @@ import torch
 from transformers import AutoTokenizer, AutoModel
 
 from utils import get_tokens_and_labels, get_tokens_and_labels_csv, \
-    get_bert_tokens, shuffle_positions, save_sample, save_bert_outputs,
-    save_just_position_word
+    get_bert_tokens, shuffle_positions, save_sample, save_bert_outputs, save_just_position_word
 
 base_path = "dataset_storing" 
 def __main__():
@@ -28,11 +27,13 @@ def __main__():
         help="Make all positions this one index")
     parser.add_argument('--local-shuffle', type=int, default=-1)
     args = parser.parse_args()
+    print(args)
     print("args:", args)
     make_dataset(args)
 
 def make_dataset(args):
     if args.ud_path is not None:
+        print(args.ud_path)
         tb_name = os.path.split(args.ud_path)[1]
         tb_name = os.path.splitext(tb_name)[0]
         directory = os.path.join(base_path, f"{tb_name}_{args.bert_name}")

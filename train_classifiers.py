@@ -23,7 +23,7 @@ def train_classifiers(args):
     os.makedirs(classifier_dir)
     num_layers = get_num_layers(args.dataset_name)
     print(f"There are {num_layers} layers in this model")
-    layers = ["word_embeddings"] +  [str(i) for i in range(num_layers + 1)]
+    layers =  ["position_embeddings", "word_embeddings"] +  [str(i) for i in range(num_layers + 1)]
     logistic = args.classifier_type == "logistic"
     for layer in layers:
         print(f"Layer {layer}")
