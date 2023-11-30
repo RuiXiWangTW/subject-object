@@ -1,0 +1,107 @@
+sentence_id,switched,subject_idx,subject,object_idx,object,verb,sentence
+1,no,1,customer,5,manager,spoke,The customer spoke to the manager about the issue with the food .
+1,yes,1,manager,5,customer,spoke,The manager spoke to the customer about the issue with the food .
+2,no,9,child,13,parent,misses,"Because they have been separated so long , the child really misses the parent ."
+2,yes,9,parent,13,child,misses,"Because they have been separated so long , the parent really misses the child ."
+3,no,2,cats,4,dogs,dislike,"Generally , cats dislike dogs , but all my pets love each other ."
+3,yes,2,dogs,4,cats,dislike,"Generally , dogs dislike cats , but all my pets love each other ."
+4,no,14,day,17,night,follows,"Spring comes after winter , the sun comes after the rain , and the day follows the night ."
+4,yes,14,night,17,day,follows,"Spring comes after winter , the sun comes after the rain , and the night follows the day ."
+5,no,23,cub,27,father,teasing,"Lions can be great fathers with a good sense of humor , as evidenced by the many lion videos on Youtube featuring a cub playfully teasing a father , both appearing to have a good time ."
+5,yes,23,father,27,cub,teasing,"Lions can be great fathers with a good sense of humor , as evidenced by the many lion videos on Youtube featuring a father playfully teasing a cub , both appearing to have a good time ."
+6,no,1,Chloe,6,friend,disagrees,But Chloe always disagrees with her friend about whether it is too cold to swim .
+6,yes,2,friend,6,Chloe,disagrees,But her friend always disagrees with Chloe about whether it is too cold to swim .
+7,no,21,boys,24,wolf,befriended,"Although extremely vicious at first , after some time the wolf became more friendly , and despite all odds , the boys befriended the wolf ."
+7,yes,21,wolf,24,boys,befriended,"Although extremely vicious at first , after some time the wolf became more friendly , and despite all odds , the wolf befriended the boys ."
+8,no,11,cheese,17,flavor,compliment,"I don't know what they were going for , but the cheese did not compliment the banana flavor at all , and left me trying my best not to throw up ."
+8,yes,12,flavor,17,cheese,compliment,"I don't know what they were going for , but the banana flavor did not compliment the cheese at all , and left me trying my best not to throw up ."
+9,no,2,son,5,daughter,like,"Does your son like your daughter , or do they fight a lot ?"
+9,yes,2,daughter,5,son,like,"Does your daughter like your son , or do they fight a lot ?"
+10,no,1,music,4,painting,fit,"The music fit the painting in theme , which left me in multisensory bliss ."
+10,yes,1,painting,4,music,fit,"The painting fit the music in theme , which left me in multisensory bliss ."
+11,no,8,Carl,14,position,was,"Even though it was his dream job , Carl was not good for the position ."
+11,yes,9,position,14,Carl,was,"Even though it was his dream job , the position was not good for Carl ."
+12,no,2,song,4,Stronger,is,"My favorite song is Stronger , so I usually sing it ALL the time on the way to school , but given what had happened , I stayed silent this time ."
+12,yes,0,Stronger,4,song,is,"Stronger is my favorite song , so I usually sing it ALL the time on the way to school , but given what had happened , I stayed silent this time ."
+13,no,8,owl,11,hawk,eat,"Sorry , I don't remember , did the owl eat the hawk , or the other way around ?"
+13,yes,8,hawk,11,owl,eat,"Sorry , I don't remember , did the hawk eat the owl , or the other way around ?"
+14,no,11,ball,13,it,hit,"The toy car slid down the ramp , and then the ball hit it ."
+14,yes,10,it,13,ball,hit,"The toy car slid down the ramp , and then it hit the ball ."
+15,no,8,firefighter,11,officer,asked,"""Do you all need any help ?"" the firefighter asked the officer ."
+15,yes,8,officer,11,firefighter,asked,"""Do you all need any help ?"" the officer asked the firefighter ."
+16,no,8,ball,10,you,hit,"Exactly , and that happened right after the ball hit you ."
+16,yes,7,you,10,ball,hit,"Exactly , and that happened right after you hit the ball ."
+17,no,1,woman,4,man,warned,"The woman warned the man not to go within a 50 mile radius of the reactor , but unfortunately , it seems that this advice was not followed ."
+17,yes,1,man,4,woman,warned,"The man warned the woman not to go within a 50 mile radius of the reactor , but unfortunately , it seems that this advice was not followed ."
+18,no,11,bear,14,tiger,attacked,"Feeling threatened by a presence as large as him , the bear attacked the tiger ."
+18,yes,11,tiger,14,bear,attacked,"Feeling threatened by a presence as large as him , the tiger attacked the bear ."
+19,no,15,groom,18,bride,married,"The weather was dreary and overcast during the entire wedding , and right before the groom married the bride , a downpour began ."
+19,yes,15,bride,18,groom,married,"The weather was dreary and overcast during the entire wedding , and right before the bride married the groom , a downpour began ."
+20,no,8,king,12,queen,loves,"Even though it has been decades , the king still loves the queen ."
+20,yes,8,queen,12,king,loves,"Even though it has been decades , the queen still loves the king ."
+21,no,0,France,2,England,fought,France fought England on and off for over a century .
+21,yes,0,England,2,France,fought,England fought France on and off for over a century .
+22,no,5,dogs,9,owners,adored,"For over 20,000 years , dogs have adored their owners ."
+22,yes,5,owners,9,dogs,adored,"For over 20,000 years , owners have adored their dogs ."
+23,no,1,student,4,teacher,greeted,The student greeted the teacher before the early-morning class .
+23,yes,1,teacher,4,student,greeted,The teacher greeted the student before the early-morning class .
+24,no,1,catfish,4,tilapia,dodged,The catfish dodged the tilapia on its way out of the area .
+24,yes,1,tilapia,4,catfish,dodged,The tilapia dodged the catfish on its way out of the area .
+25,no,9,John,14,task,suit,"I meant no disrespect , I just felt like John did not suit the task , so I asked someone else ."
+25,yes,10,task,14,John,suit,"I meant no disrespect , I just felt like the task did not suit John , so I asked someone else ."
+26,no,2,daughters,5,fathers,resemble,"Generally , daughters resemble their fathers ."
+26,yes,2,fathers,5,daughters,resemble,"Generally , fathers resemble their daughters ."
+27,no,0,Carol,2,Penny,brought,Carol brought Penny to the party since she has been sad and lonely lately .
+27,yes,0,Penny,2,Carol,brought,Penny brought Carol to the party since she has been sad and lonely lately .
+28,no,1,Arnold,3,you,recruit,Did Arnold recruit you to help with the task ?
+28,yes,1,you,3,Arnold,recruit,Did you recruit Arnold to help with the task ?
+29,no,2,you,4,Kent,invited,I think you invited Kent to the party on accident .
+29,yes,2,Kent,4,you,invited,I think Kent invited you to the party on accident .
+30,no,0,managers,4,employees,put,Managers should put their employees in their contact list in case there is an emergency .
+30,yes,0,employees,4,managers,put,Employees should put their managers in their contact list in case there is an emergency .
+31,no,8,Tyler,11,boy,helped,"Being the kind person that he is , Tyler helped the boy with the problem ."
+31,yes,9,boy,11,Tyler,helped,"Being the kind person that he is , the boy helped Tyler with the problem ."
+32,no,2,child,6,librarian,recommended,The intelligent child recommended the school librarian a new book .
+32,yes,2,librarian,6,child,recommended,The school librarian recommended the intelligent child a new book .
+33,no,1,child,4,mother,kisses,The child kisses the mother on the cheek .
+33,yes,1,mother,4,child,kisses,The mother kisses the child on the cheek .
+34,no,14,you,16,Ben,appreciated,"That was a very special speech , and I could really tell how much you appreciated Ben ."
+34,yes,14,Ben,16,you,appreciated,"That was a very special speech , and I could really tell how much Ben appreciated you ."
+35,no,0,Peter,3,Jeffrey,fight,Peter will fight Jeffrey after school .
+35,yes,0,Jeffrey,3,Peter,fight,Jeffrey will fight Peter after school .
+36,no,4,friend,6,you,met,I didn't realize my friend met you before .
+36,yes,3,you,6,friend,met,I didn't realize you met my friend before .
+37,no,1,Fred,3,you,made,"When Fred made you go to the store , I was upset and I don't think anyone felt that my feelings mattered ."
+37,yes,1,you,3,Fred,made,"When you made Fred go to the store , I was upset and I don't think anyone felt that my feelings mattered ."
+38,no,4,Jena,6,Marcus,liked,I never thought that Jena liked Marcus in freshmen year ; they just seemed like best friends . 
+38,yes,4,Marcus,6,Jena,liked,I never thought that Marcus liked Jena in freshmen year ; they just seemed like best friends .
+39,no,5,knights,8,peasants,chased,"In the olden days , knights chased after peasants to collect rent ."
+39,yes,5,peasants,8,knights,chased,"In the olden days , peasants chased after knights to collect rent ."
+40,no,6,bride,9,people,make ,There was no way for the bride to make people happy after coming 3 hours late to the highly anticipated reception .
+40,yes,5,people,9,bride,make ,There was no way for people to make the bride happy after coming 3 hours late to the highly anticipated reception .
+41,no,1,Sydney,6,treehouse,fell,"When Sydney fell on the lego treehouse , all the school children stopped to see ."
+41,yes,3,treehouse,6,Sydney,fell,"When the lego treehouse fell on Sydney , all the school children stopped to see ."
+42,no,4,situation,6,Shelly,changed,"Everyone thinks that the situation changed Shelly drastically , but that did not happen ."
+42,yes,3,Shelly,6,situation,changed,"Everyone thinks that Shelly changed the situation drastically , but that did not happen ."
+43,no,8,sister,10,Bob,sings,It will probably be night time when your sister sings Bob the song written for the event .
+43,yes,7,Bob,10,sister,sings,It will probably be night time when Bob sings your sister the song written for the event .
+44,no,0,Sam,2,Billy,moved,Sam moved Billy off the floor and onto to the chair when he realized he was sleeping . 
+44,yes,0,Billy,2,Sam,moved,Billy moved Sam off the floor and onto to the chair when he realized he was sleeping . 
+45,no,7,mom,10,aunt,asked,"More than a week ago , my mom asked my aunt to buy the Halloween candy that would be given out to the trick-or-treaters ."
+45,yes,7,aunt,10,mom,asked,"More than a week ago , my aunt asked my mom to buy the Halloween candy that would be given out to the trick-or-treaters ."
+46,no,7,Terry,9,John,met,"In the depths of the night , Terry met John to have the duel of the century ."
+46,yes,7,John,9,Terry,met,"In the depths of the night , John met Terry to have the duel of the century ."
+47,no,1,teacher,3,Lilly,called,The teacher called Lilly over to help with a class activity .
+47,yes,0,Lilly,3,teacher,called,Lilly called the teacher over to help with a class activity .
+48,no,5,Mabel,7,you,grabbed,It didn't make sense why Mabel grabbed you by the arm after getting upset about the same thing last week .
+48,yes,5,you,7,Mabel,grabbed,It didn't make sense why you grabbed Mabel by the arm after getting upset about the same thing last week .
+49,no,4,George,6,James,taught,No one knows why George taught James how to do that at such an early age . 
+49,yes,4,James,6,George,taught,No one knows why James taught George how to do that at such an early age . 
+50,no,0,Edna,2,Faye,gave,Edna gave Faye the fruitsnacks before giving them to me . 
+50,yes,0,Faye,2,Edna,gave,Faye gave Edna the fruitsnacks before giving them to me . 
+51,no,6,you,8,Gray,told,How did people find out that you told Gray about the rare mountain birds ?
+51,yes,6,Gray,8,you,told,How did people find out that Gray told you about the rare mountain birds ?
+52,no,6,brother,9,nephew,punched,Everything was going well until my brother punched your nephew and they began fighting .
+52,yes,6,nephew,9,brother,punched,Everything was going well until your nephew punched my brother and they began fighting .
+53,no,4,Lucy,6,Corey,kissed,"No one believed that Lucy kissed Corey first until they officially started dating , but I always knew ."
+53,yes ,4,Corey,6,Lucy,kissed,"No one believed that Corey kissed Lucy first until they officially started dating , but I always knew ."

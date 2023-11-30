@@ -1,0 +1,54 @@
+sentence_id,switched,subject_idx,subject,object_idx,object,verb,sentence
+1,no,1,customer,5,manager,spoke,The customer spoke to the manager about the issue with the food .
+2,no,9,child,13,parent,misses,"Because they have been separated so long , the child really misses the parent ."
+3,no,2,cats,4,dogs,dislike,"Generally , cats dislike dogs , but all my pets love each other ."
+4,no,14,day,17,night,follows,"Spring comes after winter , the sun comes after the rain , and the day follows the night ."
+5,no,23,cub,27,father,teasing,"Lions can be great fathers with a good sense of humor , as evidenced by the many lion videos on Youtube featuring a cub playfully teasing a father , both appearing to have a good time ."
+6,no,1,Chloe,6,friend,disagrees,But Chloe always disagrees with her friend about whether it is too cold to swim .
+7,no,21,boys,24,wolf,befriended,"Although extremely vicious at first , after some time the wolf became more friendly , and despite all odds , the boys befriended the wolf ."
+8,no,11,cheese,17,flavor,compliment,"I don't know what they were going for , but the cheese did not compliment the banana flavor at all , and left me trying my best not to throw up ."
+9,no,2,son,5,daughter,like,"Does your son like your daughter , or do they fight a lot ?"
+10,no,1,music,4,painting,fit,"The music fit the painting in theme , which left me in multisensory bliss ."
+11,no,8,Carl,14,position,was,"Even though it was his dream job , Carl was not good for the position ."
+12,no,2,song,4,Stronger,is,"My favorite song is Stronger , so I usually sing it ALL the time on the way to school , but given what had happened , I stayed silent this time ."
+13,no,8,owl,11,hawk,eat,"Sorry , I don't remember , did the owl eat the hawk , or the other way around ?"
+14,no,11,ball,13,it,hit,"The toy car slid down the ramp , and then the ball hit it ."
+15,no,8,firefighter,11,officer,asked,"""Do you all need any help ?"" the firefighter asked the officer ."
+16,no,8,ball,10,you,hit,"Exactly , and that happened right after the ball hit you ."
+17,no,1,woman,4,man,warned,"The woman warned the man not to go within a 50 mile radius of the reactor , but unfortunately , it seems that this advice was not followed ."
+18,no,11,bear,14,tiger,attacked,"Feeling threatened by a presence as large as him , the bear attacked the tiger ."
+19,no,15,groom,18,bride,married,"The weather was dreary and overcast during the entire wedding , and right before the groom married the bride , a downpour began ."
+20,no,8,king,12,queen,loves,"Even though it has been decades , the king still loves the queen ."
+21,no,0,France,2,England,fought,France fought England on and off for over a century .
+22,no,5,dogs,9,owners,adored,"For over 20,000 years , dogs have adored their owners ."
+23,no,1,student,4,teacher,greeted,The student greeted the teacher before the early-morning class .
+24,no,1,catfish,4,tilapia,dodged,The catfish dodged the tilapia on its way out of the area .
+25,no,9,John,14,task,suit,"I meant no disrespect , I just felt like John did not suit the task , so I asked someone else ."
+26,no,2,daughters,5,fathers,resemble,"Generally , daughters resemble their fathers ."
+27,no,0,Carol,2,Penny,brought,Carol brought Penny to the party since she has been sad and lonely lately .
+28,no,1,Arnold,3,you,recruit,Did Arnold recruit you to help with the task ?
+29,no,2,you,4,Kent,invited,I think you invited Kent to the party on accident .
+30,no,0,managers,4,employees,put,Managers should put their employees in their contact list in case there is an emergency .
+31,no,8,Tyler,11,boy,helped,"Being the kind person that he is , Tyler helped the boy with the problem ."
+32,no,2,child,6,librarian,recommended,The intelligent child recommended the school librarian a new book .
+33,no,1,child,4,mother,kisses,The child kisses the mother on the cheek .
+34,no,14,you,16,Ben,appreciated,"That was a very special speech , and I could really tell how much you appreciated Ben ."
+35,no,0,Peter,3,Jeffrey,fight,Peter will fight Jeffrey after school .
+36,no,4,friend,6,you,met,I didn't realize my friend met you before .
+37,no,1,Fred,3,you,made,"When Fred made you go to the store , I was upset and I don't think anyone felt that my feelings mattered ."
+38,no,4,Jena,6,Marcus,liked,I never thought that Jena liked Marcus in freshmen year ; they just seemed like best friends . 
+39,no,5,knights,8,peasants,chased,"In the olden days , knights chased after peasants to collect rent ."
+40,no,6,bride,9,people,make ,There was no way for the bride to make people happy after coming 3 hours late to the highly anticipated reception .
+41,no,1,Sydney,6,treehouse,fell,"When Sydney fell on the lego treehouse , all the school children stopped to see ."
+42,no,4,situation,6,Shelly,changed,"Everyone thinks that the situation changed Shelly drastically , but that did not happen ."
+43,no,8,sister,10,Bob,sings,It will probably be night time when your sister sings Bob the song written for the event .
+44,no,0,Sam,2,Billy,moved,Sam moved Billy off the floor and onto to the chair when he realized he was sleeping . 
+45,no,7,mom,10,aunt,asked,"More than a week ago , my mom asked my aunt to buy the Halloween candy that would be given out to the trick-or-treaters ."
+46,no,7,Terry,9,John,met,"In the depths of the night , Terry met John to have the duel of the century ."
+47,no,1,teacher,3,Lilly,called,The teacher called Lilly over to help with a class activity .
+48,no,5,Mabel,7,you,grabbed,It didn't make sense why Mabel grabbed you by the arm after getting upset about the same thing last week .
+49,no,4,George,6,James,taught,No one knows why George taught James how to do that at such an early age . 
+50,no,0,Edna,2,Faye,gave,Edna gave Faye the fruitsnacks before giving them to me . 
+51,no,6,you,8,Gray,told,How did people find out that you told Gray about the rare mountain birds ?
+52,no,6,brother,9,nephew,punched,Everything was going well until my brother punched your nephew and they began fighting .
+53,no,4,Lucy,6,Corey,kissed,"No one believed that Lucy kissed Corey first until they officially started dating , but I always knew ."

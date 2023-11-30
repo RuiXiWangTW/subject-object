@@ -1,0 +1,54 @@
+sentence_id,switched,subject_idx,subject,object_idx,object,verb,sentence
+1,yes,1,manager,5,customer,spoke,The manager spoke to the customer about the issue with the food .
+2,yes,9,parent,13,child,misses,"Because they have been separated so long , the parent really misses the child ."
+3,yes,2,dogs,4,cats,dislike,"Generally , dogs dislike cats , but all my pets love each other ."
+4,yes,14,night,17,day,follows,"Spring comes after winter , the sun comes after the rain , and the night follows the day ."
+5,yes,23,father,27,cub,teasing,"Lions can be great fathers with a good sense of humor , as evidenced by the many lion videos on Youtube featuring a father playfully teasing a cub , both appearing to have a good time ."
+6,yes,2,friend,6,Chloe,disagrees,But her friend always disagrees with Chloe about whether it is too cold to swim .
+7,yes,21,wolf,24,boys,befriended,"Although extremely vicious at first , after some time the wolf became more friendly , and despite all odds , the wolf befriended the boys ."
+8,yes,12,flavor,17,cheese,compliment,"I don't know what they were going for , but the banana flavor did not compliment the cheese at all , and left me trying my best not to throw up ."
+9,yes,2,daughter,5,son,like,"Does your daughter like your son , or do they fight a lot ?"
+10,yes,1,painting,4,music,fit,"The painting fit the music in theme , which left me in multisensory bliss ."
+11,yes,9,position,14,Carl,was,"Even though it was his dream job , the position was not good for Carl ."
+12,yes,0,Stronger,4,song,is,"Stronger is my favorite song , so I usually sing it ALL the time on the way to school , but given what had happened , I stayed silent this time ."
+13,yes,8,hawk,11,owl,eat,"Sorry , I don't remember , did the hawk eat the owl , or the other way around ?"
+14,yes,10,it,13,ball,hit,"The toy car slid down the ramp , and then it hit the ball ."
+15,yes,8,officer,11,firefighter,asked,"""Do you all need any help ?"" the officer asked the firefighter ."
+16,yes,7,you,10,ball,hit,"Exactly , and that happened right after you hit the ball ."
+17,yes,1,man,4,woman,warned,"The man warned the woman not to go within a 50 mile radius of the reactor , but unfortunately , it seems that this advice was not followed ."
+18,yes,11,tiger,14,bear,attacked,"Feeling threatened by a presence as large as him , the tiger attacked the bear ."
+19,yes,15,bride,18,groom,married,"The weather was dreary and overcast during the entire wedding , and right before the bride married the groom , a downpour began ."
+20,yes,8,queen,12,king,loves,"Even though it has been decades , the queen still loves the king ."
+21,yes,0,England,2,France,fought,England fought France on and off for over a century .
+22,yes,5,owners,9,dogs,adored,"For over 20,000 years , owners have adored their dogs ."
+23,yes,1,teacher,4,student,greeted,The teacher greeted the student before the early-morning class .
+24,yes,1,tilapia,4,catfish,dodged,The tilapia dodged the catfish on its way out of the area .
+25,yes,10,task,14,John,suit,"I meant no disrespect , I just felt like the task did not suit John , so I asked someone else ."
+26,yes,2,fathers,5,daughters,resemble,"Generally , fathers resemble their daughters ."
+27,yes,0,Penny,2,Carol,brought,Penny brought Carol to the party since she has been sad and lonely lately .
+28,yes,1,you,3,Arnold,recruit,Did you recruit Arnold to help with the task ?
+29,yes,2,Kent,4,you,invited,I think Kent invited you to the party on accident .
+30,yes,0,employees,4,managers,put,Employees should put their managers in their contact list in case there is an emergency .
+31,yes,9,boy,11,Tyler,helped,"Being the kind person that he is , the boy helped Tyler with the problem ."
+32,yes,2,librarian,6,child,recommended,The school librarian recommended the intelligent child a new book .
+33,yes,1,mother,4,child,kisses,The mother kisses the child on the cheek .
+34,yes,14,Ben,16,you,appreciated,"That was a very special speech , and I could really tell how much Ben appreciated you ."
+35,yes,0,Jeffrey,3,Peter,fight,Jeffrey will fight Peter after school .
+36,yes,3,you,6,friend,met,I didn't realize you met my friend before .
+37,yes,1,you,3,Fred,made,"When you made Fred go to the store , I was upset and I don't think anyone felt that my feelings mattered ."
+38,yes,4,Marcus,6,Jena,liked,I never thought that Marcus liked Jena in freshmen year ; they just seemed like best friends .
+39,yes,5,peasants,8,knights,chased,"In the olden days , peasants chased after knights to collect rent ."
+40,yes,5,people,9,bride,make ,There was no way for people to make the bride happy after coming 3 hours late to the highly anticipated reception .
+41,yes,3,treehouse,6,Sydney,fell,"When the lego treehouse fell on Sydney , all the school children stopped to see ."
+42,yes,3,Shelly,6,situation,changed,"Everyone thinks that Shelly changed the situation drastically , but that did not happen ."
+43,yes,7,Bob,10,sister,sings,It will probably be night time when Bob sings your sister the song written for the event .
+44,yes,0,Billy,2,Sam,moved,Billy moved Sam off the floor and onto to the chair when he realized he was sleeping . 
+45,yes,7,aunt,10,mom,asked,"More than a week ago , my aunt asked my mom to buy the Halloween candy that would be given out to the trick-or-treaters ."
+46,yes,7,John,9,Terry,met,"In the depths of the night , John met Terry to have the duel of the century ."
+47,yes,0,Lilly,3,teacher,called,Lilly called the teacher over to help with a class activity .
+48,yes,5,you,7,Mabel,grabbed,It didn't make sense why you grabbed Mabel by the arm after getting upset about the same thing last week .
+49,yes,4,James,6,George,taught,No one knows why James taught George how to do that at such an early age . 
+50,yes,0,Faye,2,Edna,gave,Faye gave Edna the fruitsnacks before giving them to me . 
+51,yes,6,Gray,8,you,told,How did people find out that Gray told you about the rare mountain birds ?
+52,yes,6,nephew,9,brother,punched,Everything was going well until your nephew punched my brother and they began fighting .
+53,yes ,4,Corey,6,Lucy,kissed,"No one believed that Corey kissed Lucy first until they officially started dating , but I always knew ."
